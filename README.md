@@ -2,8 +2,6 @@
 This is a server where a user can register, login, create and update a workout log that includes a description, definition and results section for the log. Users can get all of their logs or a log by a specific id - and users can delete specific logs too.
 # Below are some example tests in Postman with the certain endpoints
 
-# register new user
-<img width="1184" alt="WOL-server-POST-user:register" src="https://user-images.githubusercontent.com/80425188/122850140-bc5f5580-d2da-11eb-8e18-f8894edb4d4d.png">
 # login user
 <img width="1174" alt="WOL-server-POST-user:login" src="https://user-images.githubusercontent.com/80425188/122850156-c4b79080-d2da-11eb-8cf1-945dc6b814f8.png">
 # create a workout log
